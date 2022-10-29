@@ -1,0 +1,11 @@
+{
+  "name": "prueba_1",
+  "version": "1.0.0",
+  "description": "Prueba 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Alejandro Aguilar Calderon",
+  "license": "ISC"
+}
